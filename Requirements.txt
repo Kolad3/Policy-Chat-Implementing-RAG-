@@ -1,1 +1,5 @@
 python_dotenv
+langchain
+langchain_community 
+docarray
+docarray
